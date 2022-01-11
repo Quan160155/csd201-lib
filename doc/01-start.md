@@ -35,7 +35,16 @@ git clone https://github.com/dunghuynh-teaching/csd201-se1608-01.git .
 ```
 git add -A 
 git commit -m "Initial code"
-git push origin main
+git push origin master
 ```
+
+## Using git 
+
+8. Pull update from your friend
+
+```
+git pull
+```
+
 
 
