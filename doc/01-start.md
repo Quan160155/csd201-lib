@@ -15,18 +15,18 @@ cd csd201-lib
 git clone https://github.com/dunghuynh-teaching/csd201-lib.git .
 ```
 
-3. Create a folder for your project . For example csd201-se1608-breath
+3. Create a folder for your project . For example csd201-se1608-01
 ```
-mkdir csd201-se1608-breath
-cd csd201-se1608-breath
+mkdir csd201-se1608-01
+cd csd201-se1608-01
 ```
 
 4. Clone your repository to your computer, note the dot at the end
 ```
-git clone https://github.com/dunghuynh-teaching/csd201-se1608-breath.git .
+git clone https://github.com/dunghuynh-teaching/csd201-se1608-01.git .
 ```
 
-5. Copy all files csd201-lib to csd201-se1608-breath **except .git folder** 
+5. Copy all files csd201-lib to csd201-se1608-01 **except .git folder** 
 
 
 6. Open NetBean to import the project. Check and build 
@@ -35,7 +35,16 @@ git clone https://github.com/dunghuynh-teaching/csd201-se1608-breath.git .
 ```
 git add -A 
 git commit -m "Initial code"
-git push origin main
+git push origin master
 ```
+
+## Using git 
+
+8. Pull update from your friend
+
+```
+git pull
+```
+
 
 
