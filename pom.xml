@@ -20,11 +20,11 @@
     </repositories>
 
     <dependencies>
-        <!-- <dependency>
+        <dependency>
             <groupId>com.fptuni</groupId>
             <artifactId>csd201-test</artifactId>
             <version>[6.0,)</version>
        
-        </dependency> -->
+        </dependency> 
      </dependencies>
 </project>
