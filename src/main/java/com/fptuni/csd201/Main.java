@@ -136,7 +136,7 @@ public class Main {
     public static void testMarsExplorer()
     {
         Curious explorer = new Curious();
-        explorer.start(1); // map is the map for testing 1,2,3,4
+        explorer.start(3); // map is the map for testing 1,2,3,4
         explorer.showMap();
         
         FindingPath fp = new FindingPath();
@@ -147,8 +147,8 @@ public class Main {
     
     public static void main(String[] args) {
 
-
-        testLinkedList();
+       testMarsMessenger();
+        //testLinkedList();
         //testMarsExplorer();
     }
 }
